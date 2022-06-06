@@ -1,0 +1,17 @@
+.boxes {
+  margin-top: 50px;
+  font-family: sans-serif;
+}
+
+.box-row {
+  width: 400px;
+}
+
+.box-padding {
+  padding-top: 30px;
+  padding-bottom: 500px;
+}
+
+.box-margin {
+  margin-bottom: 600px;
+}
